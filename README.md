@@ -16,6 +16,21 @@ minimob offervault api allows access to the following resources and actions of m
 Tha API is based on HTTP protocol and all data interchanged are in JSON format.
 
 ## API documentation
+### Available Offers
+>This API Call returns all the Available Offers in minimob in a condensed format
+
+*Url:* <http://dashboard.minimob.com/api/availableoffers/?apikey=your_api_key>  
+*HTTP method:* GET  
+*Returns:* json array of objects  
+
+### Available Offer Details
+>This API Call returns an availableoffer in an enriched format
+
+*Url:* <http://dashboard.minimob.com/api/availableoffers/?apikey=your_api_key&id=an_available_offer_id>  
+*HTTP method:* GET  
+*Returns:* json array of objects  
+
+
 ### My Offers
 >This API Call returns all your offers in a condensed format
 
