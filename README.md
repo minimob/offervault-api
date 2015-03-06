@@ -11,7 +11,7 @@ minimob offervault api allows access to the following resources and actions of m
 * my offer details: detailed information for a particular offer that you allowed to use
 * approval request: for gaining access you must send an aproval request for a particular offer
 
->minimob offervault api is NOT and adserving api. It's one and only purpose is to help you to implement automated offer injestion in your system and not for direct ad serving, by using the technology platform you might suite best for your case.
+>minimob offervault api is NOT an adserving api. It's one and only purpose is to help you to implement automated offer importing in your system and not for direct ad serving, by using the technology platform you might suite best for your case.
 
 Tha API is based on HTTP protocol and all data interchanged are in JSON format.
 
