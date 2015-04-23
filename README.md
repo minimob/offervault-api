@@ -28,7 +28,7 @@ Tha API is based on HTTP protocol and all data interchanged are in JSON format.
 
 *Url:* <http://dashboard.minimob.com/api/availableoffers/?apikey=your_api_key&id=an_available_offer_id>  
 *HTTP method:* GET  
-*Returns:* json array of objects  
+*Returns:* json object
 
 
 ### My Offers
@@ -43,7 +43,7 @@ Tha API is based on HTTP protocol and all data interchanged are in JSON format.
 
 *Url:* <http://dashboard.minimob.com/api/myoffers/?apikey=your_api_key&id=my_offer_id>  
 *HTTP method:* GET  
-*Returns:* json array of objects  
+*Returns:* json object
 
 ### Approval Request
 >In order to gain access to a minimob offer a user has to make an approval request which needs to be accepted by a minimob account manager.
