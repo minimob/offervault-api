@@ -13,7 +13,7 @@ minimob offervault api allows access to the following resources and actions of m
 
 >minimob offervault api is NOT an adserving api. It's one and only purpose is to help you to implement automated offer importing in your system and not for direct ad serving, by using the technology platform you might suite best for your case.
 
-Tha API is based on HTTP protocol and all data interchanged are in JSON format.
+The API is based on HTTP protocol and all data interchanged are in JSON format.
 
 ## API documentation
 ### Available Offers
